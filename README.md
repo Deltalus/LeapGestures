@@ -13,3 +13,5 @@ Press 'c' to clear training data <br />
 Press '1' to train gesture of only right hand <br />
 Press '2' to train gesture of only left hand <br />
 Press '3' to train gesture of both hands <br />
+
+Depends on the openFrameworks toolkit.
